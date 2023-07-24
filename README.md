@@ -1,9 +1,9 @@
 # FinbourneTech
 Please find in the repository two projects
 
-  Cachelibrary          This is the cache compenent that contains the cache class and functions to add, get and remove items from the cache
+  **Cachelibrary**,          This is the cache compenent that contains the cache class and functions to add, get and remove items from the cache
   
-  finbournecache       This is a c# solution that includes the cachelibrary project (you may need to reassign the dependency) and shows the cache having items added, accessed and removed
+  **finbournecache**,       This is a c# solution that includes the cachelibrary project (you may need to reassign the dependency) and shows the cache having items added, accessed and removed
   
 
 I have use the concurrent dictionary functionality in C# as this provides an already thread safe collection without any significant performance overhead and is considered by Microsoft as best practise for thread safe collections.
